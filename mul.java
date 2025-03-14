@@ -11,15 +11,9 @@ class add implements mookoul{
     }
 }
 
-class sub implements mookoul{
-
-    @Override
-    public void show() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'show'");
-    }
+// class sub implements mookoul{
     
-}
+// }
 public class  mul{
     public static void main(String[] args) {
         add n= new add();
